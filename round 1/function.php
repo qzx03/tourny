@@ -6,7 +6,7 @@ function calculatePRICE($banana, $apple, $orange, $strawberry){
     $appleP = 16;
     $orangeP = 8;
     $strawberryP = 24.5;
-
+    
     return $banana * $bananaP + $apple * $appleP + $orange * $orangeP + $strawberry * $strawberryP;
 }
 
