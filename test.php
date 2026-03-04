@@ -10,5 +10,4 @@ echo $censoredEmail;
 
 ?>
 
-<!-- test1@gmail.com
-0123456789 -->
+
