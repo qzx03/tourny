@@ -1,0 +1,15 @@
+normal form
+text x3
+select
+submit value="calculate"
+DONE
+
+price >>> float cant be 0 or negative
+amount >>> integer cant be 0 negative
+
+amount bigger than 5 >>> -10% or total bigger than 1000 >>> -15% | if
+promo code DEV10 = -10% or SUPER20 = -20% | if
+
+
+
+

@@ -1,0 +1,22 @@
+🔴
+🟠
+🔵
+🟢
+
+form 
+password
+submit value verify
+
+!@#$%^&*_-:;,.
+
+in_array
+
+black list:
+123456
+wasd123
+azerty
+qwerty
+password
+pass123
+admin
+abcdefg
